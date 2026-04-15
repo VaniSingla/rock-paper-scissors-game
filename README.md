@@ -2,6 +2,9 @@
 
 An interactive web-based Rock Paper Scissors game where the user plays against the computer with real-time result generation and persistent score tracking.
 
+## Live Demo
+https://vanisingla.github.io/rock-paper-scissors-game/
+
 ## Features
 - Play against computer with random move generation
 - Real-time result display (Win/Loss/Draw)
