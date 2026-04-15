@@ -3,6 +3,12 @@ body
       background-color: rgb(25, 25, 25);
       color: white;
       font-family: Arial;
+      
+    }
+
+    .main{
+      width: fit-content;
+      margin: 50px auto;
     }
     .heading{
       font-size: 30px;
